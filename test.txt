@@ -1,1 +1,2 @@
 Test the functionality of the SSH key.
+Switch from HTTPS to SSH using git remote set-url origin command.
